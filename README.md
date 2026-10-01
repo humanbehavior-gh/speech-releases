@@ -2,15 +2,14 @@
 
 Push-to-talk dictation for Apple silicon Macs (macOS 15 or later). Hold a key, speak, release — your words land where your cursor is, in any app. Everything is transcribed on your Mac; no audio or text leaves it.
 
-**[Download Presspeech.dmg](https://github.com/humanbehavior-gh/speech-releases/releases/latest/download/Presspeech.dmg)** · [all releases](https://github.com/humanbehavior-gh/speech-releases/releases) · [download page](https://humanbehavior-gh.github.io/speech-releases/)
+**[Download Presspeech.zip](https://github.com/humanbehavior-gh/speech-releases/releases/latest/download/Presspeech.zip)** · [download page](https://humanbehavior-gh.github.io/speech-releases/)
 
 ## Install
 
-1. Open the downloaded `Presspeech.dmg` and drag Presspeech into the Applications folder beside it.
-2. Open Presspeech from Applications. It lives in the menu bar.
-3. Allow **Microphone** and **Accessibility** when asked — the first is your voice, the second is how the words get typed for you. The first launch downloads the speech model (about 1.2 GB).
+1. Open **Presspeech** from your Downloads. It moves itself into Applications, ejects or removes the download, and lives in the menu bar.
+2. Allow **Microphone** and **Accessibility** when asked — the first is your voice, the second is how the words get typed for you. The first launch downloads the speech model.
 
-The app is signed and notarized by Apple, so macOS opens it without warnings. It updates itself: you never need to come back here.
+The app is signed and notarized by Apple, so macOS opens it without warnings. It updates itself: you never need to come back here. A `Presspeech.dmg` is published alongside the zip for anyone who prefers one; opening the app from it installs the same way.
 
 ## Privacy
 
