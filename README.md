@@ -8,7 +8,7 @@ Push-to-talk dictation for Apple silicon Macs (macOS 15 or later). Hold a key, s
 
 1. Open the downloaded `Presspeech.dmg` and drag Presspeech into the Applications folder beside it.
 2. Open Presspeech from Applications. It lives in the menu bar.
-3. Allow **Microphone** and **Accessibility** when asked — the first is your voice, the second is how the words get typed for you. The first launch downloads the speech model (about 450 MB).
+3. Allow **Microphone** and **Accessibility** when asked — the first is your voice, the second is how the words get typed for you. The first launch downloads the speech model (about 1.2 GB).
 
 The app is signed and notarized by Apple, so macOS opens it without warnings. It updates itself: you never need to come back here.
 
